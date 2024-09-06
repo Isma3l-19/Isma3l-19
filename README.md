@@ -49,7 +49,7 @@ I am a passionate backend developer, excited about building scalable and efficie
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ismael-nyambu-776037279/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ismael-nyambu-776037279/)
 - **Email:** ismaelnyambu.99@gmail.com
 - **Portfolio:** [Portfolio](https://isma3l-19.github.io/portfolio/)
 
